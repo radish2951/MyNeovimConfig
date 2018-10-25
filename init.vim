@@ -14,6 +14,7 @@ nmap <Esc><Esc> :nohlsearch<CR><Esc>
 set cursorline
 set virtualedit=onemore
 set showmatch
+set smartindent
 set expandtab
 set tabstop=4
 set shiftwidth=4
@@ -21,5 +22,4 @@ set softtabstop=4
 set termguicolors
 colorscheme gruvbox
 set hidden
-set smartindent
 map ; :
