@@ -12,7 +12,7 @@ set smartcase
 set wrapscan
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 set cursorline
-set virtualedit=onemore
+set virtualedit=
 set showmatch
 set smartindent
 set expandtab
