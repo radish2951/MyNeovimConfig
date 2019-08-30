@@ -20,8 +20,8 @@ set tabstop=4
 set shiftwidth=4
 set softtabstop=4
 set termguicolors
-colorscheme gruvbox
-set background=light
+"colorscheme gruvbox
+"set background=light
 set hidden
 map ; :
 
